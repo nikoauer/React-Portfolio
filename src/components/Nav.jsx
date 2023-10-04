@@ -3,7 +3,7 @@ export default function Nav() {
     <>
       <ul className="nav nav-underline">
         <li className="nav-item">
-          <a className="nav-link active" aria-current="page" href="/">
+          <a className="nav-link" aria-current="page" href="/">
             About Me
           </a>
         </li>
