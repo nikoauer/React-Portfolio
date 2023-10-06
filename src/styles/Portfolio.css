@@ -1,3 +1,28 @@
-a {
-    padding: 10px
+
+
+img {
+    max-width: 400px;
+    max-height: 400px;
+    margin: 10px;
 }
+
+.card {
+    position: relative;
+  }
+  
+  .card-title {
+    transition: opacity 0.3s;
+    background: rgba(0, 0, 0, 0.6);
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    padding: 10px;
+    text-align: center;
+    opacity: 0;
+  }
+  
+  .card:hover .card-title {
+    opacity: 1;
+  }
+  
