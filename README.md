@@ -12,4 +12,4 @@ In order to download the task it can be downloaded directly from Github or can b
 
 In order to use this project you must have react installed and all the necessary dependancies. This can be done in your code editor once downloaded and then in the code terminal, npm i or npm install in entered in. Once downloaded you can start the program by running npm run dev. 
 
-![alt text](/Portfolio//screenshots/screenshot1.png)
+![alt text](/Portfolio/screenshots/screenshot1.png)
